@@ -1,6 +1,9 @@
 {
     "name": "fmarquesto/sap-sld-connector",
     "description": "Utility to connect SAPB1 with its service layer",
+    "keywords": ["sap","sapb1","BusinessOne"],
+    "homepage": "https://github.com/Fmarquesto/sal-sld-connector",
+    "license": "MIT",
     "authors": [
         {
             "name": "Fede Marquesto",
