@@ -4,6 +4,7 @@
     "keywords": ["sap","sapb1","BusinessOne"],
     "homepage": "https://github.com/Fmarquesto/sal-sld-connector",
     "license": "MIT",
+    "type": "library",
     "authors": [
         {
             "name": "Fede Marquesto",
