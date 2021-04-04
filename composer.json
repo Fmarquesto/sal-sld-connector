@@ -1,0 +1,19 @@
+{
+    "name": "fmarquesto/sap-sld-connector",
+    "description": "Utility to connect SAPB1 with its service layer",
+    "authors": [
+        {
+            "name": "Fede Marquesto",
+            "email": "fede.marquesto@gmail.com"
+        }
+    ],
+    "require": {
+        "ext-curl": "*",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "\\src"
+        }
+    }
+}
